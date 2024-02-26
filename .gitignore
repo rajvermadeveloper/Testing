@@ -1,0 +1,11 @@
+**/.DS_Store
+**/venv
+**/.env
+**/media
+.pyc
+/.idea/
+**/__pycache__
+**/migrations/
+**/migrations/*.py
+**/migrations/*.pyc
+**/migrations/__pycache__/
